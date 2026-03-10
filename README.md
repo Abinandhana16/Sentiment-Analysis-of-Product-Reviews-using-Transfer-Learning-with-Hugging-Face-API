@@ -1,0 +1,2 @@
+# Sentiment-Analysis-of-Product-Reviews-using-Transfer-Learning-with-Hugging-Face-API
+This project develops a sentiment analysis system that automatically classifies product reviews as positive, negative, or neutral. Using Natural Language Processing and transfer learning with pretrained Hugging Face models, the system analyzes review text to understand customer opinions and help businesses gain insights from feedback efficiently.
